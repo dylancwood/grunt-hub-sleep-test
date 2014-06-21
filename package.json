@@ -1,0 +1,15 @@
+{
+  "name": "grunt-hub-deadlock-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-hub": "https://github.com/dylancwood/grunt-hub/archive/v0.0.1.tar.gz",
+    "grunt": "~0.4.5"
+  }
+}
